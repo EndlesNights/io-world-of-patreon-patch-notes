@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.21.0
+- Updated Bloodletter Class to version 2.0 (2025 May 09)
+
 ## Version 1.20.0
 - Added item Barrage Crossbow (2025 May 06)
 
