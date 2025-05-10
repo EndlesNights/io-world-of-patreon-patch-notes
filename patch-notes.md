@@ -1,5 +1,10 @@
 # Changelog
 
+## Version 1.21.1
+- Updated Bloodletter Class to version 2.1 (2025 May 10)
+    - Minor rewording to Spell Leech Strike
+    -  Damage buff to Blood Rupture, base damage d6 ⇒ d8 
+
 ## Version 1.21.0
 - Updated Bloodletter Class to version 2.0 (2025 May 09)
 
