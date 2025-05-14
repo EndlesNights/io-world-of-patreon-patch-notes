@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.22.0
+- Added item Cloak of the Marionette (2025 May 13)
+
 ## Version 1.21.1
 - Updated Bloodletter Class to version 2.1 (2025 May 10)
     - Minor rewording to Spell Leech Strike
