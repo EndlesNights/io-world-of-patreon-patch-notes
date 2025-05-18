@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.23.0
+- Curseweaver Class overhaul, included name change to Hexweaver
+
 ## Version 1.22.0
 - Added item Cloak of the Marionette (2025 May 13)
 
