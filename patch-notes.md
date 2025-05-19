@@ -1,5 +1,14 @@
 # Changelog
 
+## Version 1.23.1
+- Addtioanl tweaks to Hexweaver
+    - Infliction, added Charisma save, damage increased 1d10 ⇒ 2d6
+    - Infection renamed to Contagion
+    - Intial Spread renamed to Intial Spread, now a passive instead of Bonus Action
+    - Distracted Defense, AC reduction duration changed to only being during the turn.
+    - Hexdrinker, action changed from Bonus Action to Action
+    - HEX spells action changed from Action to Bonus Action
+
 ## Version 1.23.0
 - Curseweaver Class overhaul, included name change to Hexweaver
 
