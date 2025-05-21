@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.24.0
+- Add Item Tome of Blasphemous Prayer (2025 May 20)
+
 ## Version 1.23.1
 - Addtioanl tweaks to Hexweaver
     - Infliction, added Charisma save, damage increased 1d10 ⇒ 2d6
