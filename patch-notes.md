@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 1.25.0
+- Added Invoker Class (2025 May 23)
+- Added Item Primordial Wand (2025 May 27)
+
 ## Version 1.24.0
 - Add Item Tome of Blasphemous Prayer (2025 May 20)
 
