@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.26.0
+- Added Item Prismatic Phial (2025 June 03)
+
 ## Version 1.25.0
 - Added Invoker Class (2025 May 23)
 - Added Item Primordial Wand (2025 May 27)
