@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.27.0
+- Added Cerberus & Greater Cerberus Bosses (2025 June 6)
+
 ## Version 1.26.0
 - Added Item Prismatic Phial (2025 June 03)
 
