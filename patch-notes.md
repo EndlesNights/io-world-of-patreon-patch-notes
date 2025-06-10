@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.28.0
+- Added Item Memory Tarts (2025 June 10)
+
 ## Version 1.27.0
 - Added Cerberus & Greater Cerberus Bosses (2025 June 6)
 
