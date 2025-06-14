@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.29.0
+- Added Disciple Radiance Class (2025 June 13) 
+
 ## Version 1.28.0
 - Added Item Memory Tarts (2025 June 10)
 
