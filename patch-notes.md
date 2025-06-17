@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.30.0
+- Added Item Springy Cap Shield (2025 June 17)
+
 ## Version 1.29.0
 - Added Disciple Radiance Class (2025 June 13) 
 
