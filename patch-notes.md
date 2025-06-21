@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.31.0
+- Added Alternate Rules + Mechanics for Vitality Points Ruleset (2025 June 20)
+
 ## Version 1.30.0
 - Added Item Springy Cap Shield (2025 June 17)
 
