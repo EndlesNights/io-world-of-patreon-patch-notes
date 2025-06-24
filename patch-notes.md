@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.32.0
+- Added Item Gift of Abzu (2025 June 24)
+
 ## Version 1.31.0
 - Added Alternate Rules + Mechanics for Vitality Points Ruleset (2025 June 20)
 
