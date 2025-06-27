@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.33.0
+- Added Item Thoughtlash (2025 June 27)
+
 ## Version 1.32.0
 - Added Item Gift of Abzu (2025 June 24)
 
