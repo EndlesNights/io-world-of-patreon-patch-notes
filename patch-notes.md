@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.34.0
+- Added Item Mantle of the Protector (2025 July 02)
+
 ## Version 1.33.0
 - Added Item Thoughtlash (2025 June 27)
 
