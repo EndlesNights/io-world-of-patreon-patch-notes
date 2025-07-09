@@ -1,5 +1,14 @@
 # Changelog
 
+## Version 1.36.0
+- Added Item Beetlesense Brew (2025 July 08)
+- Vitality Points changed to Life Points
+
+## Version 1.35.0
+- Added Duergar Champion Stat Block (2025 July 04)
+- Added Item Urngnor's Glaek (2025 July 04)
+- Added Battle Map Snow Mountain Fortress (2025 July 04)
+
 ## Version 1.34.0
 - Added Item Mantle of the Protector (2025 July 02)
 
