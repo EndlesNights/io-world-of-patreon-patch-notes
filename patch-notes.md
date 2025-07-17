@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.37.0
+- Added Apothecary - Rogue Subclass (2025 July 11)
+
 ## Version 1.36.0
 - Added Item Beetlesense Brew (2025 July 08)
 - Vitality Points changed to Life Points
