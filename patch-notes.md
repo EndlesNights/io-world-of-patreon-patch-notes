@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.38.0
+- Added Battlemap Frozen Fery (2025 July 25)
+
 ## Version 1.37.0
 - Added Apothecary - Rogue Subclass (2025 July 11)
 
