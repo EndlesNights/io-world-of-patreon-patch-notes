@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.39.0
+- Added Troll Hand Familiar (2025 July 29)
+
 ## Version 1.38.0
 - Added Battlemap Frozen Fery (2025 July 25)
 
