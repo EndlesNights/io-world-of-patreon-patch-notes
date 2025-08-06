@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 1.40.0
+- Added Elementalism Spells (2025 August 1)
+- Added Item Bonespur Flail (2025 August 5)
+
 ## Version 1.39.0
 - Added Troll Hand Familiar (2025 July 29)
 
