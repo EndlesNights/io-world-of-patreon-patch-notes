@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 1.41.0
+- Added Duergar Mindmelder + Soldier Stat Block (2025 August 08)
+- Added Armor Armor of Giant’s Loss (2025 August 13)
+
 ## Version 1.40.0
 - Added Elementalism Spells (2025 August 1)
 - Added Item Bonespur Flail (2025 August 5)
@@ -159,3 +163,4 @@
 
 ## Version 1.0.0
 - Initial release with content of 2025 January 
+
