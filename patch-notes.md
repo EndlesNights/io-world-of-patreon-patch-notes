@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.41.1
+- Fixed a breaking bug releated to v13/DnD5e v5.1.x with ActorSheet5eNPC being changed to  NPCActorSheet
+
 ## Version 1.41.0
 - Added Duergar Mindmelder + Soldier Stat Block (2025 August 08)
 - Added Armor Armor of Giant’s Loss (2025 August 13)
@@ -163,4 +166,3 @@
 
 ## Version 1.0.0
 - Initial release with content of 2025 January 
-
