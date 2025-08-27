@@ -1,5 +1,10 @@
 # Changelog
 
+## Version 1.42.0
+- Added Item Magic Item: Mistcloack (2025 August 27)
+- Added Duergar Deep Priest Stat Block (2025 August 23)
+- Added Item Magic Item: Terror Tank (2025 August 20)
+
 ## Version 1.41.1
 - Fixed a breaking bug releated to v13/DnD5e v5.1.x with ActorSheet5eNPC being changed to  NPCActorSheet
 
