@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.43.0
+- Added Clockwork Spider (2025 August 29)
+
 ## Version 1.42.0
 - Added Item Magic Item: Mistcloack (2025 August 27)
 - Added Duergar Deep Priest Stat Block (2025 August 23)
