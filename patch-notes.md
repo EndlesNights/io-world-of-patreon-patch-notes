@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.44.0
+- Added Item Vessel of Holy Fire (2025 September 03)
+
 ## Version 1.43.0
 - Added Clockwork Spider (2025 August 29)
 
