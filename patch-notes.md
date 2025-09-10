@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.45.0
+- Added Monstersmith’s Guide (2025 September 07)
+
 ## Version 1.44.0
 - Added Item Vessel of Holy Fire (2025 September 03)
 
