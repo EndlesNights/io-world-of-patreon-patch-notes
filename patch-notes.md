@@ -1,5 +1,12 @@
 # Changelog
 
+## Version 1.47.0
+- Added Baleful Bagpipe, Bardic Instrument (2025 September 18)
+- Added Posedi, aquadic species (2025 September 1820)
+
+## Version 1.46.0
+- Added Idol of the Bat Wondrous Item (2025 September 11)
+
 ## Version 1.45.0
 - Added Monstersmith’s Guide (2025 September 07)
 
