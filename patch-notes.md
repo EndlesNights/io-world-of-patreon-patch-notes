@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.48.0
+- Added Grimeshield (2025 September 25)
+
 ## Version 1.47.0
 - Added Baleful Bagpipe, Bardic Instrument (2025 September 18)
 - Added Posedi, aquadic species (2025 September 1820)
