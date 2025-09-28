@@ -1,5 +1,11 @@
 # Changelog
 
+## Version 1.49.0
+- Added Duergar King Fortress map pack (2025 September 25)
+    - Duergar King Fortress Base Level
+    - Duergar King Fortress Basement Level
+    - Duergar King Fortress Top Level
+
 ## Version 1.48.0
 - Added Grimeshield (2025 September 25)
 
