@@ -1,7 +1,10 @@
 # Changelog
 
 ## Version 1.49.0
-- Added Duergar King Fortress map pack (2025 September 25)
+- Added item Daggers of Hate (2025 September 30)
+
+## Version 1.49.0
+- Added Duergar King Fortress map pack (2025 September 27)
     - Duergar King Fortress Base Level
     - Duergar King Fortress Basement Level
     - Duergar King Fortress Top Level
