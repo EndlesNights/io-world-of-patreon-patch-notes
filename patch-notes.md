@@ -1,6 +1,6 @@
 # Changelog
 
-## Version 1.49.0
+## Version 1.50.0
 - Added item Daggers of Hate (2025 September 30)
 
 ## Version 1.49.0
