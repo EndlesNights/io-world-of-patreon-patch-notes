@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.51.0
+- Added item Dragonskull Buckler (2025 October 7)
+
 ## Version 1.50.0
 - Added item Daggers of Hate (2025 September 30)
 
