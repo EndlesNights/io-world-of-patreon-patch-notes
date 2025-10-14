@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.52.0
+- Add item Ravenous Fiendstaff (2025 October 14)
+
 ## Version 1.51.0
 - Added item Dragonskull Buckler (2025 October 7)
 
