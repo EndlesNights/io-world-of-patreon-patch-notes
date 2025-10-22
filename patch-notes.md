@@ -1,5 +1,20 @@
 # Changelog
 
+## Version 1.53.0
+- Fallen Hero - Release Candidate
+    - Added Fallen Hero statblock
+    - Added Material Gathering Rules
+    - Added Phase Combat Rules
+    - Added Quest: Fall From Grace 
+- Added Fallen Hero Crafting Items
+    - Arcanaspice
+    - Armor of Destiny
+    - Element Storm
+    - Dice of Fates
+    - Draconic Blade of the Fallen
+    - Legends of the Past
+    - Skull & Sanctum
+
 ## Version 1.52.0
 - Add item Ravenous Fiendstaff (2025 October 14)
 
