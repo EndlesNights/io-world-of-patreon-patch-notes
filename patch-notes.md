@@ -5,7 +5,7 @@
     - Ground Floor
     - 2nd Floor
     - Basement
-    - 
+
 ## Version 1.53.0
 - Fallen Hero - Release Candidate
     - Added Fallen Hero statblock
@@ -226,4 +226,5 @@
 
 ## Version 1.0.0
 - Initial release with content of 2025 January 
+
 
