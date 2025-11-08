@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 1.55.0
+- Added item Spectacles of the Archavist (2025 November 6)
+- Fix CSS for Foundry v13+
+
 ## Version 1.54.0
 - Added Battle Maps Abbey on the Hill
     - Ground Floor
@@ -226,5 +230,3 @@
 
 ## Version 1.0.0
 - Initial release with content of 2025 January 
-
-
