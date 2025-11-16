@@ -1,5 +1,12 @@
 # Changelog
 
+## Version 1.56.0
+- Added following Reformed stablocks
+    - Reformed Batkin
+    - Reformed Catkin
+    - Reformed Cherubim
+    - Reformed Frogkin
+
 ## Version 1.55.0
 - Added item Spectacles of the Archavist (2025 November 6)
 - Fix CSS for Foundry v13+
