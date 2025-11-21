@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.57.0
+- Added Battlemaps : Isolated Village
+
 ## Version 1.56.0
 - Added following Reformed stablocks
     - Reformed Batkin
