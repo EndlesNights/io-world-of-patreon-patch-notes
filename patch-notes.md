@@ -1,5 +1,14 @@
 # Changelog
 
+## Version 1.59.0
+- Added Statblock Oak Scourge (December 4)
+
+## Version 1.58.0
+- Added Battlemaps Ritual on Storm hilltop:
+    - Entry
+    - Path
+    - Ritual
+
 ## Version 1.57.0
 - Added Battlemaps : Isolated Village
 
