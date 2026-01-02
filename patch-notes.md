@@ -1,5 +1,13 @@
 # Changelog
 
+## Version 1.60.0
+- Added Swamp Ruins Map back, 5 maps in total. (Map 3 will be added at a later date)
+    - Swamp Ruins 1
+    - Swamp Ruins 2
+    - Swamp Ruins 4
+    - Swamp Ruins 5
+    - Swamp Ruins 6
+
 ## Version 1.59.0
 - Added Statblock Oak Scourge (December 4)
 
