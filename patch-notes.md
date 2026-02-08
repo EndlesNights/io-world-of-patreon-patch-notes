@@ -1,7 +1,16 @@
 # Changelog
 
+## Version 1.62.0
+- Added Divinite Beetle Statblock Packet (2026 February 7)
+- Added Visitant of the Fire Giant Statblock Packet (2026 February 5)
+
+
+## Version 1.61.0
+- Added Hag Windmill Map pack, 4 levels in total
+- Added Heroic Giant Spider Mosnter Statblock
+
 ## Version 1.60.0
-- Added Swamp Ruins Map back, 5 maps in total. (Map 3 will be added at a later date)
+- Added Swamp Ruins Map pack, 5 maps in total. (Map 3 will be added at a later date)
     - Swamp Ruins 1
     - Swamp Ruins 2
     - Swamp Ruins 4
