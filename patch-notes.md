@@ -1,5 +1,11 @@
 # Changelog
 
+## Version 1.63.0
+- Added Voidine Beetle Statblock Packet (2026 March 1)
+- Added Silver Manor Map Pack, (7 Scenes) (2026 March 5)
+- Added Void Elemental Statblock Packet (2026 March 26)
+
+
 ## Version 1.62.0
 - Added Divinite Beetle Statblock Packet (2026 February 7)
 - Added Visitant of the Fire Giant Statblock Packet (2026 February 5)
