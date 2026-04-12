@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.64.0
+- Added Prismatic Golem Boss Packet (2026 April 11)
+
 ## Version 1.63.0
 - Added Voidine Beetle Statblock Packet (2026 March 1)
 - Added Silver Manor Map Pack, (7 Scenes) (2026 March 5)
