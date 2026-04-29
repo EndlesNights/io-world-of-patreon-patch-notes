@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 1.65.0
+- Crystal Caverns Battlemaps (2026 April 27)
+- Minor Changes to NPC CR Tier Display
+
 ## Version 1.64.0
 - Added Prismatic Golem Boss Packet (2026 April 11)
 
