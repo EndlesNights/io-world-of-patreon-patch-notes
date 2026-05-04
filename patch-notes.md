@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 1.66.0
+- Living House statblock + maps (2026 May 1st)
+- Fixed an issue with custom status effects in v14
+
 ## Version 1.65.0
 - Crystal Caverns Battlemaps (2026 April 27)
 - Minor Changes to NPC CR Tier Display
