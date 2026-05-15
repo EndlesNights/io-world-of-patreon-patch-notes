@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 1.67.0
+- Added Statblock Twisted Sadist
+- Added Battlemap Dress SHop
+
 ## Version 1.66.0
 - Living House statblock + maps (2026 May 1st)
 - Fixed an issue with custom status effects in v14
