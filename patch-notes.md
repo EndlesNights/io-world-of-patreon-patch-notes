@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.68.0
+- Added Cleric Subclass: Draconic Domain (2026 June 18th)
+
 ## Version 1.67.0
 - Added Statblock Twisted Sadist
 - Added Battlemap Dress SHop
