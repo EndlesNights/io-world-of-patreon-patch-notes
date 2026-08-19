@@ -1,5 +1,23 @@
 # Changelog
 
+## Version 1.70.0
+- Updated IO monster tier selector
+- Updated Phase Combat Macro
+- Added Statblock Ithica, The Abbot's Mercy
+- Added Loot Items for Ithica, The Abbot's Mercy:
+    - Abbey's Gonfalon
+    - Celestial Blood
+    - Ithica's Mercy
+
+## Version 1.69.0
+- Added v1.1 updated version of Flayed Keldian
+
+## Version 1.68.2
+- Bloodletter fixes
+    - fighting styles should now work properly
+- Sharpshooter fixes
+    - Fixed broken UUID for leather in description
+
 ## Version 1.68.0
 - Added Cleric Subclass: Draconic Domain (2026 June 18th)
 
