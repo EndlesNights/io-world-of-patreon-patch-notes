@@ -1,5 +1,21 @@
 # Changelog
 
+## Version 1.72.0
+- Added Celestia Abbey Battle Map Pack
+  - Celestia Abbey Basement
+  - Celestia Abbey Ground Floor
+  - Celestia Abbey 2nd Floor
+
+## Version 1.71.0
+- Added statblocks (2026 September 23)
+    - Abbot Escariot
+    - Fallen Angle Escariot
+- Added Battlemap (2026 September 25)
+    - Celestial Pool
+- Added Class (2026 September 30)
+    - Class Slayer
+        - SUbclass Undead Hunter
+
 ## Version 1.70.0
 - Updated IO monster tier selector
 - Updated Phase Combat Macro
